@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-socketio[asgi]
+python-multipart
+pydantic
+bcrypt
+sqlalchemy
+sqlite3
