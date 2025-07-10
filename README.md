@@ -35,14 +35,13 @@ Follow the steps below to run the app locally:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/chat-app.git
-2. Navigate to the project directory
+2. **Navigate to the project directory**
    ```bash
   cd chat-app
-3. Install the required dependencies
-  ```bash
+3. **Install the required dependencies**
   pip install -r requirements.txt
 
-4. Inspect stored messages
+4. **Inspect stored messages**
   Use the provided script to view the message database:
   ```bash
   python server/view_db.py
