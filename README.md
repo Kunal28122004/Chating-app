@@ -34,7 +34,7 @@ Follow the steps below to run the app locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone (https://github.com/Kunal28122004/Chating-app)
 2. **Navigate to the project directory**
    ```bash
   cd chat-app
